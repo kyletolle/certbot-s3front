@@ -23,5 +23,5 @@ certbot.log
 # auth --cert-path --chain-path
 /*.pem
 .env
-env.list
+*.env.list
 letsencrypt
